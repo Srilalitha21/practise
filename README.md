@@ -20,4 +20,6 @@ This a frontend learning project by APPSDC with React JS
     1. Whole number
     2. natural numbers
     3. Integers
+
+![TajMahal](https://image.shutterstock.com/image-photo/tajmahal-blue-light-shade-full-260nw-1502937662.jpg)
   
