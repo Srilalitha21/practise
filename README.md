@@ -4,6 +4,8 @@ This a frontend learning project by APPSDC with React JS
 ## is used for haeding 2 after ## don't forget to give space.
 ### is used for heading 3
 #### it is used for heading 4.
+##### heading 5
+###### heading 6
 *front style in Italic*
 **font style in bold**
 ***font style in both Itaclic and bold***
