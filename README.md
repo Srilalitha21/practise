@@ -36,4 +36,8 @@ List is a collection of items
 def fun():
  print("Hai")
  ~~~
+ 
+ Table 1 | Table 2
+ ----------|---------
+ Table body1 | Table body 2
   
