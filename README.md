@@ -31,4 +31,9 @@ List is a collection of items
 ![TajMahal](https://image.shutterstock.com/image-photo/tajmahal-blue-light-shade-full-260nw-1502937662.jpg)
 
 [Google](https://www.google.com/)
+
+~~~python
+def fun():
+ print("Hai")
+ ~~~
   
